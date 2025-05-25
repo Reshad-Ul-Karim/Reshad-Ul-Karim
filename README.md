@@ -156,7 +156,7 @@
 - 🤖 **Integrated with rover vision system**
 
 [![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshad-Ul-Karim/Autonomous-Keyboard-typing-test)
-[![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/vdP5qrJQqGc?t=131)
 
 </td>
 <td width="50%">
@@ -190,7 +190,7 @@
 - 🛡️ **Comprehensive error handling**
 
 [![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshad-Ul-Karim/Matrimonial-Project-370)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C851?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![Demo Video](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/BSgDdoiRlTY)
 
 </td>
 <td width="50%">
