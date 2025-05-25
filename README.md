@@ -252,7 +252,9 @@
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Reshad-Ul-Karim&icon=1&color=9)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Reshad-Ul-Karim&color=brightgreen&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Reshad-Ul-Karim?style=for-the-badge&color=blue&labelColor=black)](https://github.com/Reshad-Ul-Karim?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Reshad-Ul-Karim?style=for-the-badge&color=yellow&labelColor=black)](https://github.com/Reshad-Ul-Karim?tab=repositories)
 
 *⭐ From [Reshad-Ul-Karim](https://github.com/Reshad-Ul-Karim)*
 
