@@ -172,7 +172,7 @@
 - 📚 **IEEE Conference** publication
 
 [![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshad-Ul-Karim/Sleep-Detection/tree/main/Code)
-[![Paper](https://img.shields.io/badge/Read%20Paper-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
+[![Paper](https://img.shields.io/badge/Read%20Paper-0066CC?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10898858/)
 
 </td>
 </tr>
