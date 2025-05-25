@@ -259,7 +259,8 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1109/ACCESS.2025.3550577-0066CC?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.1109/ACCESS.2025.3550577)
 [![PDF](https://img.shields.io/badge/Download%20PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://doi.org/10.1109/ACCESS.2025.3550577)
-[![Citations](https://img.shields.io/badge/Citations-0-yellow?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshad-Ul-Karim/Human-Analytics-Project)
+[![Stroke Detection](https://img.shields.io/badge/Stroke%20Detection%20Code-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammamMahdi/Stroke-Detection)
 
 </div>
 
