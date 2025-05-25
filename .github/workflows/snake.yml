@@ -15,6 +15,10 @@ on:
     branches:
     - main
 
+# Add permissions for the workflow
+permissions:
+  contents: write
+
 jobs:
   # This workflow contains a single job called "build"
   build:
@@ -24,7 +28,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
     
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
@@ -42,9 +46,10 @@ jobs:
         run: git status
 
       - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
