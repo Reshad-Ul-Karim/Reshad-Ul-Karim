@@ -136,45 +136,202 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🤖 BRACU Mars Rover Autonomous Keyboard Typing Test
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Reshad-Ul-Karim/Autonomous-Keyboard-typing-test)
+</div>
 
-*Autonomous keyboard typing prototype using YOLOv8, PaddleOCR, and precise interaction mapping*
+<table>
+<tr>
+<td width="50%">
 
----
+### 🤖 Mars Rover Autonomous Keyboard Typing
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/Tech-YOLOv8%20%7C%20PaddleOCR-blue?style=flat-square&logo=python&logoColor=white">
+
+**🎯 Autonomous keyboard typing prototype for Mars Rover missions**
+- 🔍 **YOLOv8** for real-time keyboard detection
+- 📝 **PaddleOCR** for precise key recognition  
+- 🎯 **Angle & distance mapping** for accurate interaction
+- 🤖 **Integrated with rover vision system**
+
+[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshad-Ul-Karim/Autonomous-Keyboard-typing-test)
+[![Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white)](#)
+
+</td>
+<td width="50%">
 
 ### 😴 Sleep Stage Classification with XAI
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Reshad-Ul-Karim/Sleep-Detection/tree/main/Code)
+<img src="https://img.shields.io/badge/Status-Published-success?style=flat-square&logo=ieee&logoColor=white">
+<img src="https://img.shields.io/badge/Tech-ML%20%7C%20XAI-purple?style=flat-square&logo=tensorflow&logoColor=white">
 
-*ML model with Explainable AI for photoplethysmography-based four-stage sleep classification*
+**🧠 Explainable AI for photoplethysmography-based sleep analysis**
+- 📊 **Four-stage sleep classification** with high accuracy
+- 🔍 **SHAP & LIME** for model interpretability
+- 📈 **Enhanced accuracy** through ensemble methods
+- 📚 **IEEE Conference** publication
 
----
+[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshad-Ul-Karim/Sleep-Detection/tree/main/Code)
+[![Paper](https://img.shields.io/badge/Read%20Paper-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
 
-### 💑 Matrimonial Hub - Database Project
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Reshad-Ul-Karim/Matrimonial-Project-370)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-*🥇 **1st Place** in class of 40+ students - Secure matchmaking site with MySQL, PHP, JavaScript*
+### 💑 Matrimonial Hub - Database System
+<img src="https://img.shields.io/badge/Award-1st%20Place%20🥇-gold?style=flat-square&logo=trophy&logoColor=white">
+<img src="https://img.shields.io/badge/Tech-PHP%20%7C%20MySQL-orange?style=flat-square&logo=php&logoColor=white">
+
+**💍 Secure matchmaking platform with advanced features**
+- 🔒 **Encrypted user data** with robust security
+- 🔍 **Dynamic search algorithms** for compatibility
+- ⚡ **AJAX-powered** real-time interactions
+- 🛡️ **Comprehensive error handling**
+
+[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshad-Ul-Karim/Matrimonial-Project-370)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C851?style=for-the-badge&logo=heroku&logoColor=white)](#)
+
+</td>
+<td width="50%">
+
+### 🔬 More Projects Coming Soon...
+<img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Robotics-red?style=flat-square&logo=robot&logoColor=white">
+
+**🚀 Exciting projects in the pipeline**
+- 🤖 **Advanced robotics** applications
+- 🧠 **Deep learning** research projects
+- 🔬 **Computer vision** innovations
+- 📊 **Data science** solutions
+
+[![Follow](https://img.shields.io/badge/Follow%20for%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Star](https://img.shields.io/badge/Star%20Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black)](#)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
 ---
 
-## 📚 Publications
+## 📚 Publications & Research
 
-### 📖 Journal Publications
-**🔬 Optimizing Stroke Recognition with MediaPipe and Machine Learning: An Explainable AI Approach**  
-*IEEE Access* | March 12, 2025  
-[![DOI](https://img.shields.io/badge/DOI-10.1109/ACCESS.2025.3550577-blue?style=flat-square)](https://doi.org/10.1109/ACCESS.2025.3550577)
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📄 Conference Papers
-**🧠 Machine Learning Approaches in Photoplethysmography-Based Sleep Stage Classification**  
-*IEEE ICEACE 2024* | March 3, 2025  
-[![DOI](https://img.shields.io/badge/DOI-10.1109/ICEACE63551.2024.10898858-blue?style=flat-square)](https://doi.org/10.1109/ICEACE63551.2024.10898858)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Published+Research+Papers;IEEE+Conference+%26+Journal;Explainable+AI+%26+Machine+Learning;Computer+Vision+%26+Healthcare" alt="Research Focus" />
 
-**💤 Improved Photoplethysmography-Based Four-Stage Sleep Classification with XAI**  
-*IEEE ICEACE 2024* | March 3, 2025  
-[![DOI](https://img.shields.io/badge/DOI-10.1109/ICEACE63551.2024.10898853-blue?style=flat-square)](https://doi.org/10.1109/ICEACE63551.2024.10898853)
+</div>
+
+<table>
+<tr>
+<td width="100%" align="center">
+
+### 📖 Journal Publication
+
+</td>
+</tr>
+<tr>
+<td>
+
+<div align="left">
+
+#### 🔬 **Optimizing Stroke Recognition with MediaPipe and Machine Learning: An Explainable AI Approach for Facial Landmark Analysis**
+
+<img src="https://img.shields.io/badge/Journal-IEEE%20Access-blue?style=for-the-badge&logo=ieee&logoColor=white">
+<img src="https://img.shields.io/badge/Impact%20Factor-3.9-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white">
+<img src="https://img.shields.io/badge/Status-Published-success?style=for-the-badge&logo=check-circle&logoColor=white">
+
+**📅 Published:** March 12, 2025 | **🏛️ Publisher:** IEEE Access
+
+**🔬 Research Focus:**
+- 🧠 **Stroke detection** using facial landmark analysis
+- 🤖 **MediaPipe integration** for real-time processing
+- 📊 **Explainable AI** techniques for medical interpretability
+- 🎯 **Machine learning** optimization for healthcare applications
+
+[![DOI](https://img.shields.io/badge/DOI-10.1109/ACCESS.2025.3550577-0066CC?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.1109/ACCESS.2025.3550577)
+[![PDF](https://img.shields.io/badge/Download%20PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://doi.org/10.1109/ACCESS.2025.3550577)
+[![Citations](https://img.shields.io/badge/Citations-0-yellow?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="100%" align="center">
+
+### 📄 Conference Publications
+
+</td>
+</tr>
+<tr>
+<td>
+
+<div align="left">
+
+#### 🧠 **Machine Learning Approaches in Photoplethysmography-Based Sleep Stage Classification**
+
+<img src="https://img.shields.io/badge/Conference-IEEE%20ICEACE%202024-purple?style=for-the-badge&logo=ieee&logoColor=white">
+<img src="https://img.shields.io/badge/Pages-117--122-orange?style=for-the-badge&logo=book&logoColor=white">
+<img src="https://img.shields.io/badge/Status-Published-success?style=for-the-badge&logo=check-circle&logoColor=white">
+
+**📅 Published:** March 3, 2025 | **🏛️ Conference:** IEEE ICEACE 2024
+
+**🔬 Research Highlights:**
+- 💤 **Sleep stage classification** using PPG signals
+- 🤖 **Machine learning algorithms** for healthcare
+- 📊 **Signal processing** techniques
+- 🎯 **Non-invasive monitoring** solutions
+
+[![DOI](https://img.shields.io/badge/DOI-10.1109/ICEACE63551.2024.10898858-0066CC?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.1109/ICEACE63551.2024.10898858)
+[![PDF](https://img.shields.io/badge/Download%20PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://doi.org/10.1109/ICEACE63551.2024.10898858)
+
+---
+
+#### 💤 **Improved Photoplethysmography-Based Four-Stage Sleep Classification with Explainable AI-Driven Machine Learning**
+
+<img src="https://img.shields.io/badge/Conference-IEEE%20ICEACE%202024-purple?style=for-the-badge&logo=ieee&logoColor=white">
+<img src="https://img.shields.io/badge/Pages-117--122-orange?style=for-the-badge&logo=book&logoColor=white">
+<img src="https://img.shields.io/badge/XAI-Explainable%20AI-red?style=for-the-badge&logo=brain&logoColor=white">
+
+**📅 Published:** March 3, 2025 | **🏛️ Conference:** IEEE ICEACE 2024
+
+**🔬 Key Innovations:**
+- 🔍 **Explainable AI** integration with SHAP & LIME
+- 📈 **Four-stage sleep classification** with enhanced accuracy
+- 🧠 **Model interpretability** for healthcare professionals
+- ⚡ **Real-time processing** capabilities
+
+[![DOI](https://img.shields.io/badge/DOI-10.1109/ICEACE63551.2024.10898853-0066CC?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.1109/ICEACE63551.2024.10898853)
+[![PDF](https://img.shields.io/badge/Download%20PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://doi.org/10.1109/ICEACE63551.2024.10898853)
+[![Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshad-Ul-Karim/Sleep-Detection)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📊 Research Impact
+
+<img src="https://img.shields.io/badge/Total%20Publications-3-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white">
+<img src="https://img.shields.io/badge/IEEE%20Papers-3-blue?style=for-the-badge&logo=ieee&logoColor=white">
+<img src="https://img.shields.io/badge/Research%20Focus-AI%20%7C%20Healthcare-red?style=for-the-badge&logo=heart&logoColor=white">
+<img src="https://img.shields.io/badge/Citations-Growing-yellow?style=for-the-badge&logo=trending-up&logoColor=white">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ---
 
