@@ -27,7 +27,7 @@
 🤖 **AI & Robotics Specialist** with focus on autonomous systems  
 🏆 **Mars Rover Team Core Member** - URC 2024 Top 38 Globally  
 📍 **Location:** Dhaka, Bangladesh  
-📊 **CGPA:** 3.9/4.00  
+📊 **CGPA:** 3.89/4.00  
 
 ### 🚀 What I'm About:
 - 🔬 Advancing **Explainable AI** and **Machine Learning**
